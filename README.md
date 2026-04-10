@@ -27,11 +27,11 @@ This project focuses on applying real-world iOS development concepts such as dat
 
 ## 🧱 Project Structure
 MyAdetApp/
-├── Controllers/ → ViewControllers (UI logic)
-├── Models/ → Data models (Habit / Adet)
-├── Views/ → Custom UI components
-├── Managers/ → CoreData handling
-├── Resources/ → Assets, Storyboards
+- ├── Controllers/ → ViewControllers (UI logic)
+- ├── Models/ → Data models (Habit / Adet)
+- ├── Views/ → Custom UI components
+- ├── Managers/ → CoreData handling
+- ├── Resources/ → Assets, Storyboards
 
 
 ---
