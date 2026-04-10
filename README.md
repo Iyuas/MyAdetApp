@@ -1,3 +1,5 @@
+
+
 # 📱 MyAdetApp – Habit Tracking iOS App
 
 ## 📌 Overview
@@ -16,6 +18,14 @@ This project focuses on applying real-world iOS development concepts such as dat
 - Simple and user-friendly interface  
 
 ---
+<p align="center">
+<img width="300" height="660
+" alt="simulator_screenshot_B58B5BDF-E7F1-48EE-8C29-88B1BF0B7BC6" src="https://github.com/user-attachments/assets/f0d74769-5ba9-41da-bc0f-2d097915ff3b" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="300" height="660" alt="simulator_screenshot_B5DA3B2E-D55C-4C9B-860A-2C0E8F2C9C63" src="https://github.com/user-attachments/assets/30b54d4c-c734-491a-937e-59f401d099b7" />
+
+</p>
+
 
 ## 🛠️ Tech Stack
 - **Language:** Swift  
